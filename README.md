@@ -6,6 +6,8 @@ Malaria is a life-threatening disease that is spread by the Plasmodium parasites
 ### Data-Set
 
 Malaria dataset contains 27,558 cell images classified into two groups called test and train, where train set contains about 25000 images and the test set contains 2600 images. The data is further divided into 2 groups of parasitized and uninfected cells, where each cell contains an equal number of instances.
+![image](https://user-images.githubusercontent.com/86013104/129008717-f809312d-8b8d-4dde-b249-32d4da290cca.png)
+
 
 ### Data Preprocessing
 
